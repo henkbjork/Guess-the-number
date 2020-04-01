@@ -1,0 +1,9 @@
+bjork\henrik\util\thymeleaf\DecoupledLogicSetup.class
+bjork\henrik\util\ViewNames.class
+bjork\henrik\WebMain.class
+bjork\henrik\controller\GameController.class
+bjork\henrik\service\GameServiceImpl.class
+bjork\henrik\service\GameService.class
+bjork\henrik\util\GameMappings.class
+bjork\henrik\config\WebConfig.class
+bjork\henrik\util\AttributeNames.class

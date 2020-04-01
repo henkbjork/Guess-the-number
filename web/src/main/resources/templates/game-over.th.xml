@@ -1,0 +1,7 @@
+<thlogic>
+    <attr sel="#headId" th:replace="~{fragments/head :: headFragment}"/>
+    <attr sel="#result-message" th:text="${__${T(bjork.henrik.util.AttributeNames).RESULT_MESSAGE}__}"/>
+    <attr sel="#restart-link" th:href="@{__${T(bjork.henrik.util.GameMappings).RESTART}__}"/>
+    <attr sel="#home-link" th:href="@{__${T(bjork.henrik.util.GameMappings).HOME}__}"/>
+    <attr sel="#footerId" th:replace="~{fragments/footer :: footerFragment}"/>
+</thlogic>

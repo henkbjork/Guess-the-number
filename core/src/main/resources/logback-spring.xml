@@ -1,0 +1,9 @@
+<configuration>
+
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+
+    <logger name="bjork.henrik" level="debug"/>
+    <logger name="org.springframework" level="info"/>
+
+</configuration>
+
